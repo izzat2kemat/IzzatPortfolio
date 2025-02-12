@@ -1,0 +1,1 @@
+<?php /* PayPal Payment Gateway */ ?>
